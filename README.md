@@ -4,7 +4,7 @@
 - 💼 Software Developer Intern at Cincinnati Children’s Hospital
 - 🛠️ Experienced in .NET MAUI, Blazor, GraphQL, Strapi CMS
 - 💻 Passionate about building cross-platform applications
-- 🌐 Check out my work on [GitHub](https://github.com/Prajapdh)
+- 🌐 Check out my [Portfolio Website](https://dakshprajapati.net)
 
 ## 🚀 Experience
 
@@ -17,10 +17,6 @@
 - Converted .NET4 MVC project to .NET 7 core framework
 - Enhanced frontend with HTML, TailwindCSS, and jQuery
 - Streamlined processes with VBA macros and Tableau dashboards
-
-### Content Peer Tutor | Learning Commons, UC
-- Provided academic support for 200+ students
-- Conducted review sessions and designed activities for active learning
 
 ## 🚧 Projects & Tech Stack
 
@@ -36,4 +32,4 @@
 ## 🛠️ Technical Skills
 - Languages: Python, C, C++, C#, JavaScript, Java, MATLAB, SQL
 - Tools: VS Code, Git/GitHub, Jupyter Lab, Docker, Tableau, MongoDB
-- Technologies/Frameworks: .NET MAUI, Blazor, XUnit, Node.js, React, Sklearn, Flask, Tailwind CSS
+- Technologies/Frameworks: LangChain, CrewAI, LangGraph, Node.js, React.js, Next.js, .NET MAUI, Blazor, Sklearn, Flask, Tailwind CSS
